@@ -24,13 +24,12 @@ img {
    
 }
 .card{
+   
     width: 300px;
    margin-bottom: 2rem;
    box-shadow: 0 0 2px 3px black;
    text-align: center;
-   padding: 2rem;
 }
-
 .flagImage{
     width: 80%;
     margin: 1rem;
